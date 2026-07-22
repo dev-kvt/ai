@@ -6,3 +6,4 @@ langchain_community
 langchain-groq 
 python-dotenv
 langgraph
+huggingface-hub
